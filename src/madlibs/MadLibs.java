@@ -46,7 +46,7 @@ public class MadLibs {
         System.out.println("Write a noun");
         String noun1 = kboard.nextLine();
         
-        System.out.println("test2");
+        System.out.println("test3");
         System.out.println("");
         System.out.println("");
         System.out.println("");
