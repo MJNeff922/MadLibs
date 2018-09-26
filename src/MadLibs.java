@@ -1,5 +1,3 @@
-package madlibs;
-
 /**
  *
  * @author MJNeff18579
